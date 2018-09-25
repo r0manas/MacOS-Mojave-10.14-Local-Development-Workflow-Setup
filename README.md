@@ -11,4 +11,4 @@
    [homebrew]: <https://github.com/r0manas/MacOS-Mojave-10.14-Local-Development-Workflow-Setup/wiki/01.-Installing-Homebrew>
    [zsh]: <https://github.com/r0manas/MacOS-Mojave-10.14-Local-Development-Workflow-Setup/wiki/02.-Installing-ZSH>
    [mysql]: <https://github.com/r0manas/MacOS-Mojave-10.14-Local-Development-Workflow-Setup/wiki/03.-Installing-MySQL>
-   [pcnv]: <https://github.com/r0manas/MacOS-Mojave-10.14-Local-Development-Workflow-Setup/wiki/04.-Installing-PHP,-Composer,-npm,-Valet>
+   [pcnv]: <https://github.com/r0manas/MacOS-Mojave-10.14-Local-Development-Workflow-Setup/wiki/04.-Installing-PHP,-Composer,-Node,-Valet>
